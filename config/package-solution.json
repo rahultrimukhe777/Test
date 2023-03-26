@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "percy-leaderboard-client-side-solution",
+    "id": "833fa617-42d3-4ed9-8849-e13ddcfc9b41",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "percy-leaderboard description"
+      },
+      "longDescription": {
+        "default": "percy-leaderboard description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "percy-leaderboard Feature",
+        "description": "The feature that activates elements of the percy-leaderboard solution.",
+        "id": "fb348880-981b-4da4-b56a-c4a608ec83d6",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/percy-leaderboard.sppkg"
+  }
+}
